@@ -1,2 +1,2 @@
 # PyMIMO
-To implement a NR MIMO simulator 
+To implement some simulations on BF 
